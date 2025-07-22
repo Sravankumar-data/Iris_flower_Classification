@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification
+# 🌸 IRIS FLOWER CLASSIFICATION
 
 This project demonstrates a **machine learning approach to classify Iris flower species** based on their physical measurements using classic datasets and popular algorithms. 🌿
 
